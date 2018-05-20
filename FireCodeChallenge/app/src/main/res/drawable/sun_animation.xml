@@ -1,0 +1,10 @@
+<animated-vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/ic_wi_day_sunny">
+
+    <target
+        android:name="sunGroup"
+        android:animation="@animator/animator_sun" />
+
+
+</animated-vector>

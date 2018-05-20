@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FireCodeChallenge</string>
+    <string name="max_temp">Max</string>
+    <string name="min_temp">Min</string>
+    <string name="wind">Wind</string>
+    <string name="humidity">Humidity</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="sunset">Sunset</string>
+</resources>
